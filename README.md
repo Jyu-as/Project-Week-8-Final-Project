@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[The price of living in Barcelona]*
+# The price of living in Barcelona
+*[Jorge González González]*
 
 *[Data Analytics, Barcelona Oct 2020]*
 
