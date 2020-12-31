@@ -19,7 +19,7 @@
 - [Links](#links)
 
 ## Project Description
-The goal of my project is to analyze the real estate market in Barcelona and create a machine learning model for predicting house prices.
+The goal of my project is to analyze the real estate market in Barcelona and create a machine learning model for predicting housing prices.
 I would analize the prices of the houses through the different disctrics segregating the data by property type and condition.
 
 
